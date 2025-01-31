@@ -33,9 +33,5 @@ This project involves creating interactive dashboards to analyze sales data over
 
 
 
-## 📩 Contact
-For any queries, feel free to reach out!
 
----
-**👨‍💻 Author:** Harsh
 
